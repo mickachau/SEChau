@@ -92,3 +92,17 @@ footer {
   bottom: 0;
 }
 
+#contactForm{
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-img{
+  margin-bottom: 10%;
+}
+
+.contact-title{
+  text-align: center;
+  font-family: sans-serif;
+
+}
